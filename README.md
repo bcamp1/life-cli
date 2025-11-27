@@ -9,6 +9,8 @@ Displays your life as a grid where each row represents 2 years, with 104 boxes p
 - **Filled boxes (█)** = weeks already lived
 - **Empty boxes (░)** = weeks remaining
 
+![Life Board Example](example.jpg)
+
 ## Installation
 
 ### Quick Install
